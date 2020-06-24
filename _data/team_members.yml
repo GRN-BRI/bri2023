@@ -1,7 +1,7 @@
 - name: Prof. name
   photo: rock.jpg
-  info: **** University
-  email: ******@mail
+  info: University Name
+  email: Name@mail
   number_educ: 1
   education1: Topics
   

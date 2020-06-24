@@ -3,10 +3,10 @@ title: "CIEG - Research"
 layout: textlay
 excerpt: "CIEG -- Research"
 sitemap: false
-permalink: /research/
+permalink: /accommodation
 ---
 
-# Research
+# Accommodation
 
 Coming soon !!!
 

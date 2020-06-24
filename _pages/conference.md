@@ -84,8 +84,6 @@ Jump to [Keynote speakers](#Keynote speakers), [Industrial panels](#master-and-b
 
  
 
-## Alumni
- 
  
 
  

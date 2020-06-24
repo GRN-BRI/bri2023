@@ -1,6 +1,27 @@
 - name: Prof. name
   photo: rock.jpg
-  info: University Name
+  info: General Chairs
   email: Name@mail
   number_educ: 1
-  education1: Topics
+  education1: Univesity Name
+  
+- name: Prof. name
+  photo: rock.jpg
+  info: Honorary Co-Chairs
+  email: Name@mail
+  number_educ: 1
+  education1: Univesity Name
+
+- name: Prof. name
+  photo: rock.jpg
+  info: Program Committee Chair
+  email: Name@mail
+  number_educ: 1
+  education1: TopiUnivesity Namecs
+  
+- name: Prof. name
+  photo: rock.jpg
+  info: Program Committee Co-Chair
+  email: Name@mail
+  number_educ: 1
+  education1: Univesity Name  

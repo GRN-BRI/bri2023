@@ -1,12 +1,12 @@
 ---
-title: "CIEG - Home"
+title: "LOGMS - Home"
 layout: homelay
-excerpt: "CIEG at Zhengzhou University."
+excerpt: "LOGMS conference."
 sitemap: false
 permalink: /
 ---
 
-The Computer and Industrial Engineering Group (CIEG) was established within the [School of Management Engineering](http://www5.zzu.edu.cn/glgc/) at [Zhengzhou University](http://www.zzu.edu.cn/) in September 2020 by Dr. [Yanjie Zhou](https://ieyjzhou.github.io/). The CIEG group carries out research at the interface between Computer Science and Industrial Engineering, developing mathematical models and solution methodologies for decision support in real world problem solving. The CIEG also carries out research at the interface between Management Science and Operation Research by using Computer Science technologies to help industry management their company.
+This is a empty conference template!!!!
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -48,8 +48,7 @@ The Computer and Industrial Engineering Group (CIEG) was established within the 
 
 
 
- **We are  looking for passionate new undergraduate, and Master students to join the team** [(more info)](https://ieyjzhou.github.io/lab/Openpositions.html) **!**
-
+ 
  
 
 

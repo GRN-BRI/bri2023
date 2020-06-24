@@ -11,7 +11,7 @@ permalink: /keynote/
 
  
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=7mZV_YsAAAAJ&hl=zh-TW))
+ 
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.Keynote_speakers %}

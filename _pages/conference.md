@@ -6,13 +6,13 @@ sitemap: false
 permalink: /conference/
 ---
 
-# Programme
+# Organization
  
 
 
-Jump to [Organization](#Organization), [Industrial panels](#master-and-bachelor-students).
+Jump to [Chairs](#Chairs), [Organizing Committee](#Organizing Committee), [Program Committee Members](#Program Committee Members).
 
-## Organization 
+## Chairs 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -105,6 +105,7 @@ Jump to [Organization](#Organization), [Industrial panels](#master-and-bachelor-
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
 ## Program Committee Members
 
 {% assign number_printed = 0 %}

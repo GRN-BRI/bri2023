@@ -1,14 +1,14 @@
 ---
-title: "CIEG - Courses"
+title: "LOGMS - call for paper"
 layout: textlay
-excerpt: "Openings"
+excerpt: "call for paper"
 sitemap: false
-permalink: /courses
+permalink: /cfp
 ---
 
-# Courses
+# call for paper
 
 Coming soon
-### Open courses
+### Abstract Word Template 
+### Abstract Latex Template 
 
-Fundamental of optimization 

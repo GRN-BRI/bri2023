@@ -10,9 +10,9 @@ permalink: /conference/
  
 
 
-Jump to [Keynote speakers](#Keynote speakers), [Industrial panels](#master-and-bachelor-students).
+Jump to [Organization](#Organization), [Industrial panels](#master-and-bachelor-students).
 
-## Keynote speakers
+## Organization 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 

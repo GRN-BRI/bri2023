@@ -10,7 +10,7 @@ permalink: /accommodation
 
 Hotels (This part will be updated regularly)
 <table class="table">
-  <thead>
+  <thead class="thead-dark">
     <tr>
       <th scope="col">#</th>
       <th scope="col">Hotel name</th>

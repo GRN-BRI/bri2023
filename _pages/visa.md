@@ -3,7 +3,7 @@ title: "LOGMS - visa"
 layout: textlay
 excerpt: "Logms -- visa"
 sitemap: false
-permalink: /venue
+permalink: /visa
 ---
 
 # Visa

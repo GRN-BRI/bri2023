@@ -3,7 +3,7 @@ title: "LOGMS - submission"
 layout: default
 excerpt: "Logms - submission"
 sitemap: false
-permalink: /contact
+permalink: /submission
 ---
 
 # Submission.

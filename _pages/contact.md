@@ -1,7 +1,7 @@
 ---
-title: "Contact Us"
+title: "LOGMS - Contact Us"
 layout: default
-excerpt: "Contact Us."
+excerpt: "Logms - Contact Us."
 sitemap: false
 permalink: /contact
 ---

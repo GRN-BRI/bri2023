@@ -7,9 +7,9 @@ permalink: /program
 ---
 
 # Program
-<table  >
+<table  class="table">
   <thead>
-    <trclass="table-primary">
+    <tr class="table-primary">
       <th scope="col">#</th>
       <th scope="col">First</th>
       <th scope="col">Last</th>

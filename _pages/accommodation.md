@@ -1,7 +1,7 @@
 ---
-title: "CIEG - Research"
+title: "LOGMS - accommodation"
 layout: textlay
-excerpt: "CIEG -- Research"
+excerpt: "Logms -- accommodation"
 sitemap: false
 permalink: /accommodation
 ---

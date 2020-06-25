@@ -10,10 +10,10 @@ permalink: /accommodation
 
  
          
-        <div id="map-container-google-8" class="z-depth-1-half map-container-5" style="height: 300px">
+
           <iframe src="https://maps.google.com/maps?q=Barcelona&t=&z=13&ie=UTF8&iwloc=&output=embed"
             frameborder="0" style="border:0" allowfullscreen></iframe>
-        </div>
+
  
     
 Hotels (This part will be updated regularly)

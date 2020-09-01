@@ -6,8 +6,10 @@ sitemap: false
 permalink: /
 ---
 
-This is a empty conference template!!!!
+We are pleased to invite you to attend and participate in the 7th International Conference on Logistics and Maritime Systems. The aim of this conference is to provide a forum for participants from universities and related industries to exchange ideas on the latest technical, operational, economic and sustainability developments in container and bulk logistics and their related maritime systems. 
 
+Logms 2021 will be hold by the Ocean College of Zhejiang University (Zhoushan Campus) at the end of August and late September, 2021. 
+**Exact date will be announced soon!!!**
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -17,25 +19,33 @@ This is a empty conference template!!!!
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>  
         <li data-target="#carousel" data-slide-to="4"></li>  
+        <li data-target="#carousel" data-slide-to="5"></li>  
+        <li data-target="#carousel" data-slide-to="6"></li>          
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/20190714_174351.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/zju_2.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/20191003_162855.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/zju_3.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/20191003_165351.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/zju_4.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/20191004_134347.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/zju_4.png" alt="Slide 4" />
         </div> 
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/20191004_182821.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/zju_5.png" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/zju_6.png" alt="Slide 6" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/zju_7.png" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

@@ -7,6 +7,10 @@ redirect: https://www.logms2021.com/
 permalink: /
 ---
 The offical website of LOGMS 2021 is: [https://www.logms2021.com/](https://www.logms2021.com/)
+
+ <body onload="parent.location='https://www.logms2021.com/' ">
+    
+    
 <!--
 We are pleased to invite you to attend and participate in the 10th International Conference on Logistics and Maritime Systems. The aim of this conference is to provide a forum for participants from universities and related industries to exchange ideas on the latest technical, operational, economic and sustainability developments in container and bulk logistics and their related maritime systems. 
 

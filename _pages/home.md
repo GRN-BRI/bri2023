@@ -3,13 +3,16 @@ title: "LOGMS - Home"
 layout: homelay
 excerpt: "LOGMS conference."
 sitemap: false
+redirect: https://www.logms2021.com/
 permalink: /
 ---
-
+The offical website of LOGMS 2021 is: [https://www.logms2021.com/](https://www.logms2021.com/)
+<!--
 We are pleased to invite you to attend and participate in the 10th International Conference on Logistics and Maritime Systems. The aim of this conference is to provide a forum for participants from universities and related industries to exchange ideas on the latest technical, operational, economic and sustainability developments in container and bulk logistics and their related maritime systems. 
 
 Logms 2021 will be hold by the Ocean College of Zhejiang University (Zhoushan Campus) at 29-31 October, 2021. 
 **Call for paper will be announced soon!!!**
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -58,7 +61,7 @@ Logms 2021 will be hold by the Ocean College of Zhejiang University (Zhoushan Ca
   </a>
 </div>
 
-
+-->
 
 
 

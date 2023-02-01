@@ -3,7 +3,6 @@ title: "LOGMS - Home"
 layout: homelay
 excerpt: "LOGMS conference."
 sitemap: false
-redirect: https://www.logms2021.com/
 permalink: /
 ---
 

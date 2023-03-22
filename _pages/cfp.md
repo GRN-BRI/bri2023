@@ -1,5 +1,5 @@
 ---
-title: "LOGMS - call for paper"
+title: "GRN-BRI - call for paper"
 layout: textlay
 excerpt: "call for paper"
 sitemap: false
@@ -8,32 +8,41 @@ permalink: /cfp
 
 # call for paper
 
-**Theme:** Emerging Opportunities and Challenges of Maritime Logistics - Automation, Digitalization, and Artificial Intelligence
+**Theme:** The Greening, Reliability and Security of Global Maritime Transportation and Logistics
 
 Automation has become an indispensable characteristic inherent in ports, which are key nodes of the global logistics network. In recent years, with the development of Artificial Intelligence (AI) technologies, smart port and shipping are attracting more and more attention from both researchers and practitioners. The applied AI technologies will not only improve the performance of existing maritime logistics network, but also upgrade the potential of new generation maritime system. In addition, the maritime systems may explore new opportunities and challenges of a more comprehensive and tailored cooperation with smart supply chains.  
 
 **Topics of interest include, but not limited to:**
 
-1. Automated container terminals
-1. Digitalization of maritime logistics
-1. Artificial intelligence in maritime logistics
-1. Smart maritime logistics network
-1. Big data analytics for maritime logistics 
-1. Warehousing
-1. Maritime logistics under Industry 4.0
-1. Supply chains with Internet of Things 
-1. Operation safety and human factors
-1. Impact of emergency (e.g., COVID-19) and resilience of maritime system
-1. Intermodal transport network
-1. Green port and shipping
-1. Maritime safety and security with applied technologies
-1. Global supply chain management
-1. Infrastructure and investment policies 
-1. Global E-business and maritime logistics
-1. Relationship between maritime logistics center and free trade zone (port, island)
-1. Maritime policy and economics
-1. Interdisciplinary studies on maritime logistics
-
+         <ul>    
+            
+           <li>Events’ impacts on economic globalization and global industrial chain and the supply chain</li>
+<li>Economic implications of BRI Regionalism versus Multilateralism</li>
+<li>The future position of container hub ports in Asia</li>
+<li>The impact of regional economy and culture on the logistics and supply chains in the BRI</li>
+<li>Integration of Asia-Euro shipping liner and China Railway Express Liner</li>
+<li>Multimodal international trade transportation coordination</li>
+<li>Comparison of Reliabilities of shipping liners between Pacific and Indian oceans</li>
+<li>The role of information technology in shipping and port logistics</li>
+<li>The complex network of maritime terminals, inland ports, cross-border corridors</li>
+<li>The network of free trade zones in the BRI</li>
+<li>Sustainability issues along the Belt and Road Country</li>
+<li>Maritime transportation and logistics competition and efficiency</li>
+<li>Digitalization of shipping transportation: policy and practice </li>
+<li>Global sourcing and production networks</li>
+<li>Data analytics in global logistics and supply chain networks</li>
+<li>Social impact of shipping logistics and political economy related to BRI</li>
+<li>Maritime security international relations</li>
+<li>Big data and data mining in logistics and supply chain management</li>
+<li>Internet of Things (IoT) in logistics and supply chain management</li>
+<li>Infrastructure for supply chain/ transportation/energy</li>
+<li>Impacts of the COVID-19 on maritime transportation and logistics</li>
+<li>Decarbonization of maritime industry</li>
+<li>Green shipping corridors in tandem with decarbonization and digitalization</li>
+<li>Greening the Belt and Road</li>
+<li>Green investment for supply chain</li>
+<li>Challenges and opportunities in Cruise shipping in the post-COVID-19 era</li>
+         </ul>       
 ### Abstract Word Template 
 ### Abstract Latex Template 
 

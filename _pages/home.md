@@ -7,9 +7,9 @@ permalink: /
 ---
 
 
-We are pleased to invite you to attend and participate in the 10th International Conference on Logistics and Maritime Systems. The aim of this conference is to provide a forum for participants from universities and related industries to exchange ideas on the latest technical, operational, economic and sustainability developments in container and bulk logistics and their related maritime systems. 
+we welcome the 8th annual conference of The Global Research Network Belt - Road Initiative (GRN-BRI). The GRN-BRI having members from 60 institutes in 40 countries along the Belt and Road is an independent research network providing a global platform for researchers to share and collaborate on research projects in the field of logistics, transport, international trade, and supply chain (https://grn-bri.com/). This yearly conference is one of the serial international conferences, industry seminars, and training workshops that disseminate the latest research and strategic insights to enhance policy-making and support economic development.
 
-Logms 2021 will be hold by the Ocean College of Zhejiang University (Zhoushan Campus) at 29-31 October, 2021. 
+GRN-BRI 2023 will be hold by the Ningbo University, Zhejiang, China at November 10-12, 2023
 **Call for paper will be announced soon!!!**
 
 

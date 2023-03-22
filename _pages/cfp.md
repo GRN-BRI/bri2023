@@ -14,9 +14,8 @@ Automation has become an indispensable characteristic inherent in ports, which a
 
 **Topics of interest include, but not limited to:**
 
-         <ul>    
-            
-           <li>Events’ impacts on economic globalization and global industrial chain and the supply chain</li>
+ <ul>                
+<li>Events’ impacts on economic globalization and global industrial chain and the supply chain</li>
 <li>Economic implications of BRI Regionalism versus Multilateralism</li>
 <li>The future position of container hub ports in Asia</li>
 <li>The impact of regional economy and culture on the logistics and supply chains in the BRI</li>

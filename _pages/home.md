@@ -1,5 +1,5 @@
 ---
-title: "LOGMS - Home"
+title: "GRN-BRI - Home"
 layout: homelay
 excerpt: "LOGMS conference."
 sitemap: false

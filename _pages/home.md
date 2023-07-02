@@ -7,10 +7,10 @@ permalink: /
 ---
 
 
-we welcome the 8th annual conference of The Global Research Network Belt - Road Initiative (GRN-BRI). The GRN-BRI having members from 60 institutes in 40 countries along the Belt and Road is an independent research network providing a global platform for researchers to share and collaborate on research projects in the field of logistics, transport, international trade, and supply chain (https://grn-bri.com/). This yearly conference is one of the serial international conferences, industry seminars, and training workshops that disseminate the latest research and strategic insights to enhance policy-making and support economic development.
+we welcome the 8th annual conference of The Global Research Network Belt - Road Initiative (GRN-BRI). The GRN-BRI having members from 60 institutes in 40 countries along the Belt and Road is an independent research network providing a global platform for researchers to share and collaborate on research projects in the field of logistics, transport, international trade, and supply chain [https://grn-bri.github.io/](https://grn-bri.github.io/). This yearly conference is one of the serial international conferences, industry seminars, and training workshops that disseminate the latest research and strategic insights to enhance policy-making and support economic development.
 
 GRN-BRI 2023 will be hold by the Ningbo University, Zhejiang, China at November 10-12, 2023
-**Call for paper will be announced soon!!!**
+ 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >

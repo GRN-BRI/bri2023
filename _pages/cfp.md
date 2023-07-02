@@ -42,6 +42,11 @@ Automation has become an indispensable characteristic inherent in ports, which a
 <li>Green investment for supply chain</li>
 <li>Challenges and opportunities in Cruise shipping in the post-COVID-19 era</li>
          </ul>       
-### Abstract Word Template 
-### Abstract Latex Template 
+### Your Paper, Your Way: There are no strict formatting requirements.
+
+### Conference key due dates:
+1. Submission of extended abstracts: by 15 July 2023 to wushanhua@nbu.edu.cn ; chengjiannan@nbu.edu.cn ; or chendongxu1@nbu.edu.cn
+1. Acceptance of the extended abstracts: by 30 July 2023 (* Invitation letters will be issued for applying for entry visa for foreign participants.)
+1. Submission of full papers (only for applying for special issues): by 15 Oct. 2023
+
 

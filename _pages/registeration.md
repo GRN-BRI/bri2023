@@ -7,15 +7,12 @@ permalink: /registeration
 ---
 
 # Registration
-Registration is now closed!
-Registration fee  
-Conference:
-1. Early bird registration:   $00000 (until *****)
-2. Normal registration:       $00000 (after ****)
+The on-site card payment would be the only method for the registration fee payment. The detailed payment amount is: 
+ 
+1. Students (with student identification card)	900 RMB (appr. US$125)
+2. Others	1400 RMB (appr. US$200)
 
-
-Payments can be made using a credit card by clicking the [‘Register’]() link.
-
+ 
  
 
 
